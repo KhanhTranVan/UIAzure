@@ -592,7 +592,7 @@ function Library:CreateWindow(name)
 			ImageLabel.BorderSizePixel = 0
 			ImageLabel.Position = UDim2.new(0.0299999714, 0, 0, 0)
 			ImageLabel.Size = UDim2.new(0, 19, 0, 19)
-			ImageLabel.Image = "rbxassetid://3926305904"
+			ImageLabel.Image = "rbxassetid://16137232629"
 			ImageLabel.ImageColor3 = Color3.fromRGB(72, 73, 74)
 			ImageLabel.ImageRectOffset = Vector2.new(124, 124)
 			ImageLabel.ImageRectSize = Vector2.new(36, 36)
