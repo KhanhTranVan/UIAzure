@@ -1322,3 +1322,4 @@ function Library:CreateWindow(name)
 	end
 	return TabCreate
 end
+return Library
